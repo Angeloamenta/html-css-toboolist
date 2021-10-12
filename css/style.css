@@ -17,7 +17,7 @@ background-color: #FFFFFF;
 
 .logo-header{
 height: 100%;
-vertical-align: middle;
+vertical-align: top;
 }
 
 header>h1{
@@ -69,6 +69,21 @@ background-color: turquoise;
 padding: 40px;
 }
 
+.pt-centrale>div>h3{
+display: inline-block;
+vertical-align: top;
+}
+
 .pt-centrale>div>ul{
 list-style: none;
+}
+
+.arrow{
+font-size: 30px;
+display: inline-block;
+vertical-align: middle;
+}
+
+li{
+    padding: 5px;
 }
