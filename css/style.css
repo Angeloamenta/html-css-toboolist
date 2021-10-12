@@ -87,3 +87,14 @@ vertical-align: middle;
 li{
     padding: 5px;
 }
+
+.pt-centrale button{
+border-radius: 11px;
+font-family: 'Roboto', sans-serif;
+display: inline-block;
+border: none;
+font-size: 10px;
+width: 50px;
+padding: 5px;
+}
+
