@@ -45,13 +45,14 @@ margin-left: 50px;
 border-radius: 7px;
 font-family: 'Roboto', sans-serif;
 display: inline-block;
-border: none;
+border: solid 1px;;
 font-size: 10px;
 height: 30px;
 padding: 10px;
 }
 
 .button-task{
+font-weight: 500;
 color: white;
 background-color: #47ADF1;
 }
