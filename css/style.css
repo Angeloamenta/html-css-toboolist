@@ -41,13 +41,13 @@ margin-left: 50px;
 }
 
 .barra-sup>div>button{
-    border-radius: 7px;
-    font-family: 'Roboto', sans-serif;
-    display: inline-block;
-    border: none;
-    font-size: 10px;
-    height: 30px;
-    padding: 10px;
+border-radius: 7px;
+font-family: 'Roboto', sans-serif;
+display: inline-block;
+border: none;
+font-size: 10px;
+height: 30px;
+padding: 10px;
 }
 
 .button-task{
@@ -58,4 +58,10 @@ background-color: #47ADF1;
 .button-section{
 background-color: #FFFFFF;
 color: #CAD0D4;
+}
+
+.pt-centrale{
+margin-top: 5px;
+background-color: turquoise;
+height: 500px;
 }
