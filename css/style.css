@@ -63,5 +63,12 @@ color: #CAD0D4;
 .pt-centrale{
 margin-top: 5px;
 background-color: turquoise;
-height: 500px;
+}
+
+.pt-centrale>div{
+padding: 40px;
+}
+
+.pt-centrale>div>ul{
+list-style: none;
 }
