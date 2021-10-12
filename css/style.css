@@ -32,4 +32,10 @@ margin: 50px auto;
 .barra-sup{
 background-color: blueviolet;
 height: 50px;
+border-radius: 2px;
+}
+
+.barra-sup>div{
+line-height: 50px;
+margin-left: 50px;
 }
