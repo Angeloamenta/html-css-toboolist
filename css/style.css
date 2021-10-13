@@ -184,16 +184,19 @@ color: #72C7B3;
 border-color: #72C7B3;
 border-radius: 100%;
 background-color: transparent;
+border: solid 1px;
 }
+
 
 .cross{
 width: 15px;
 height: 15px;
-font-size: 10px;
+font-size: 9px;
 font-weight: bold;
 color: #EB544B;
 border-color: #EB544B;
 border-radius: 100%;
 background-color: transparent;
+border: solid 1px;
 }
 
